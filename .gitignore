@@ -1,0 +1,13 @@
+# Composer files
+vendor
+
+# Wordpress files
+/public/core
+/public/app/uploads
+debug.log
+
+# Configuration
+.env
+
+# IDE files
+/.idea
